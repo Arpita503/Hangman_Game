@@ -1,4 +1,3 @@
-# had to turn some of these to raw ("r") strings, so "\" are not treated as escape characters
 from termcolor import colored
 stages = [colored(r'''
   +---+
